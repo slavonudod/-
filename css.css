@@ -1,0 +1,18 @@
+.hayabusa{
+	 float: left; 
+    width: 500px;
+	margin-right:100px;
+	padding-left:20px;
+	
+}
+.honda{
+    width: 500px; 
+    float: left;
+	
+}
+	
+.moto{
+	text-align:  center;
+	border-bottom: 1px solid green;
+	
+	}
